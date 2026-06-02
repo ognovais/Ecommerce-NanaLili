@@ -58,18 +58,6 @@ O projeto envolveu desde a configuração da loja virtual até ajustes visuais, 
 
 ---
 
-## Banner Principal
-
-![Banner](./screenshots/banner-principal.png)
-
----
-
-## Categorias
-
-![Categorias](./screenshots/categorias.png)
-
----
-
 ## Página de Produto
 
 ![Produto](./screenshots/produto.png)
@@ -87,6 +75,19 @@ O projeto envolveu desde a configuração da loja virtual até ajustes visuais, 
 ![Mobile](./screenshots/mobile.png)
 
 ---
+
+## Edição e Estilização
+
+![HTML/CSS](./screenshots/css.png)
+
+---
+
+## Catálogo
+
+![Catálogo](./screenshots/catalogo.png)
+
+---
+
 
 # 🎨 Identidade Visual
 
@@ -149,7 +150,7 @@ Atualmente em busca da primeira oportunidade profissional na área de tecnologia
 ### Contato
 
 - LinkedIn: https://www.linkedin.com/in/antonynovais/
-- GitHub: https://github.com/SEU-USUARIO
+- GitHub: https://github.com/ognovais
 
 ---
 
